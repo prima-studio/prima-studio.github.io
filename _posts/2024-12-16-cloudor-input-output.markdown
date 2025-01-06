@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Example: training"
+date:   2024-12-16 20:03:16 -0500
+categories: product
+---
+
 #### Train a Model With Input and Output
 
 Most, if not all, real-world applications consume inputs and generate outputs. 

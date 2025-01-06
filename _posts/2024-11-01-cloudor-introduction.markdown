@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introducing cloudor!"
-date:   2022-03-10 20:03:16 -0500
+date:   2024-11-01 20:03:16 -0500
 categories: product
 ---
 
@@ -31,9 +31,4 @@ Advanced users please check out more [examples](./cloudor/examples.md) on how to
 * Learn how to deploy `cloudor` within enterprise
 * ...
 
-
-
-<p align="center">
-  <img src="./_media/cloudor.svg">
-</p>
 

@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Intruduction"
+date:   2024-11-05 20:03:16 -0500
+categories: product
+---
+
 # Introduction
 
 `cloudor` is a cloud middleware service that faciliates running container jobs on a variety of cloud vendors (aws, azure etc.). 
